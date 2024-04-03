@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andarouler
-- 🌱 I’m currently learning: k8s, python and react
+- 🌱 I’m currently learning: k8s, go, python and react
 
 
 
